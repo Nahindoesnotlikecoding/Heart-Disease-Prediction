@@ -37,7 +37,7 @@
 <li>
   Set Up the Environment:-
   <ul>
-    <li>Create and activate the Conda environment using the <strong>environment.yaml</strong>file:</li>
+    <li>Create and activate the Conda environment using the <strong>environment.yaml</strong> file:</li>
     <li><strong>conda env create -f environment.yaml</strong></li>
     <li><strong>conda activate your_environment_name</strong></li>
   </ul>
@@ -46,7 +46,7 @@
   Run the App:-
   <ul>
     <li>Launch the Streamlit app using: <strong>streamlit run app.py</strong></li>
+    <li>This will open the app in your browser. Input patient details to receive predictions.</li>
   </ul>
 </li>
 </ol>
-<li></li>
