@@ -20,3 +20,33 @@
   <li>Dataset: heart-disease.csv for training the model.</li>
 </ol>
 <ul>
+<h2>Steps to Build and Run</h2>
+<ol>  
+  <li>
+    Clone the Repository:-
+    <ul>
+      <li>Download the project from GitHub using: <strong>git clone https://github.com/YourUsername/Heart-Disease-Prediction.git</strong></li>
+    </ul>
+  </li>
+<li>
+  Navigate to the Project Directory:-
+  <ul>
+    <li>Open the terminal and move to the project folder: <strong>cd Heart-Disease-Prediction</strong></li>
+  </ul>
+</li>
+<li>
+  Set Up the Environment:-
+  <ul>
+    <li>Create and activate the Conda environment using the <strong>environment.yaml</strong>file:</li>
+    <li><strong>conda env create -f environment.yaml</strong></li>
+    <li><strong>conda activate your_environment_name</strong></li>
+  </ul>
+</li>
+<li>
+  Run the App:-
+  <ul>
+    <li>Launch the Streamlit app using: <strong>streamlit run app.py</strong></li>
+  </ul>
+</li>
+</ol>
+<li></li>
