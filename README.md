@@ -25,7 +25,7 @@
   <li>
     Clone the Repository:-
     <ul>
-      <li>Download the project from GitHub using: <strong>git clone https://github.com/YourUsername/Heart-Disease-Prediction.git</strong></li>
+      <li>Download the project from GitHub using: <code>git clone https://github.com/YourUsername/Heart-Disease-Prediction.git</</code></li>
     </ul>
   </li>
 <li>
