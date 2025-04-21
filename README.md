@@ -17,7 +17,7 @@
     </ul>
   </li>
   <li>Environment Management: <code>Conda</code> for managing dependencies.</li>
-  <li>Dataset: <code>heart-disease.csv</code> for training the model.</li>
+  <li>Dataset: <code>heart-disease.csv</code> for training the model. The original data came from the Cleavland data from the UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/heart+Disease</li>
 </ol>
 <ul>
 <h3>Steps to Build and Run</h3>
