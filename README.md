@@ -37,9 +37,10 @@
 <li>
   <strong>Set Up the Environment:-</strong>
   <ul>
-    <li>Create and activate the Conda environment using the <code>environment.yaml</code> file:</li>
-    <li><strong>conda env create -f environment.yaml</strong></li>
-    <li><strong>conda activate your_environment_name</strong></li>
+    <li>Create and activate the Conda environment using:</li>
+    <li>the <code>environment.yaml</code> file</li>
+    <li><code>conda env create -f environment.yaml</code></li>
+    <li><code>conda activate your_environment_name</code></li>
   </ul>
 </li>
 <li>
