@@ -8,16 +8,16 @@
 
 <h3>2. Tools/Languages Used</h3>
 <ol>
-  <li>Programming Language: Python</li>
+  <li>Programming Language: <code>Python</code></li>
   <li>Libraries:-
     <ul>
-      <li>pandas: For data manipulation and analysis.</li>
-      <li>scikit-learn: For building and training the machine learning model</li>
-      <li>scikit-learn: For building and training the machine learning model</li>
+      <li><code>pandas</code>: For data manipulation and analysis.</li>
+      <li><code>scikit-learn</code>: For building and training the machine learning model</li>
+      <li><code>Streamlit</code>: For creating the interactive web app.</li>
     </ul>
   </li>
-  <li>Environment Management: Conda for managing dependencies.</li>
-  <li>Dataset: heart-disease.csv for training the model.</li>
+  <li>Environment Management: <code>Conda</code> for managing dependencies.</li>
+  <li>Dataset: <code>heart-disease.csv</code> for training the model.</li>
 </ol>
 <ul>
 <h2>Steps to Build and Run</h2>
@@ -31,7 +31,7 @@
 <li>
   Navigate to the Project Directory:-
   <ul>
-    <li>Open the terminal and move to the project folder: <strong>cd Heart-Disease-Prediction</strong></li>
+    <li>Open the terminal and move to the project folder: <code>cd Heart-Disease-Prediction </code></li>
   </ul>
 </li>
 <li>
@@ -50,3 +50,21 @@
   </ul>
 </li>
 </ol>
+<h3>3. Challenges and Key Features</h3>
+<ul>
+  <li>
+    Challenges:
+    <ul>
+      <li>- <strong>Feature Selection</strong>: Identifying the most relevant predictors from the dataset.</li>
+      <li><strong>Deployment</strong>: Ensuring the Streamlit app works seamlessly across different platforms.</li>
+    </ul>
+  </li>
+  <li>
+    Key Features:
+    <ul>
+      <li>- Interactive and user-friendly Streamlit interface.</li>
+      <li>Machine learning model trained on medical data for heart disease prediction.</li>
+      <li>Easy environment setup using the <code>environment.yaml</code> file for reproducibility.</li>
+    </ul>
+  </li>
+</ul>
