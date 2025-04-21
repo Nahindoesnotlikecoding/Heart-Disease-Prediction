@@ -6,7 +6,7 @@
 <p>This project predicts the likelihood of heart disease in individuals using machine learning models. Users can input patient data (e.g., age, cholesterol level, blood pressure) into a Streamlit app, which outputs a probability of heart disease based on the trained model. It’s designed to provide quick and accurate insights for medical decision-making.
 </p>
 
-<h3>Tools/Languages Used</h3>
+<h3>2. Tools/Languages Used</h3>
 <ol>
   <li>Programming Language: Python</li>
   <li>Libraries:-
@@ -37,7 +37,7 @@
 <li>
   Set Up the Environment:-
   <ul>
-    <li>Create and activate the Conda environment using the <strong>environment.yaml</strong> file:</li>
+    <li>Create and activate the Conda environment using the <code>environment.yaml</code> file:</li>
     <li><strong>conda env create -f environment.yaml</strong></li>
     <li><strong>conda activate your_environment_name</strong></li>
   </ul>
