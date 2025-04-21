@@ -20,22 +20,22 @@
   <li>Dataset: <code>heart-disease.csv</code> for training the model.</li>
 </ol>
 <ul>
-<h2>Steps to Build and Run</h2>
+<h3>Steps to Build and Run</h3>
 <ol>  
   <li>
-    Clone the Repository:-
+    <strong>Clone the Repository:-</strong>
     <ul>
       <li>Download the project from GitHub using: <strong>git clone https://github.com/YourUsername/Heart-Disease-Prediction.git</</strong</li>
     </ul>
   </li>
 <li>
-  Navigate to the Project Directory:-
+ <strong>Navigate to the Project Directory:-</strong>
   <ul>
     <li>Open the terminal and move to the project folder: <code>cd Heart-Disease-Prediction </code></li>
   </ul>
 </li>
 <li>
-  Set Up the Environment:-
+  <strong>Set Up the Environment:-</strong>
   <ul>
     <li>Create and activate the Conda environment using the <code>environment.yaml</code> file:</li>
     <li><strong>conda env create -f environment.yaml</strong></li>
@@ -43,7 +43,7 @@
   </ul>
 </li>
 <li>
-  Run the App:-
+  <strong>Run the App:-</strong>
   <ul>
     <li>Launch the Streamlit app using: <strong>streamlit run app.py</strong></li>
     <li>This will open the app in your browser. Input patient details to receive predictions.</li>
@@ -53,16 +53,16 @@
 <h3>3. Challenges and Key Features</h3>
 <ul>
   <li>
-    Challenges:
+    <strong>Challenges:</strong>
     <ul>
-      <li>- <strong>Feature Selection</strong>: Identifying the most relevant predictors from the dataset.</li>
+      <li><strong>Feature Selection</strong>: Identifying the most relevant predictors from the dataset.</li>
       <li><strong>Deployment</strong>: Ensuring the Streamlit app works seamlessly across different platforms.</li>
     </ul>
   </li>
   <li>
-    Key Features:
+    <strong>Key Features:</strong>
     <ul>
-      <li>- Interactive and user-friendly Streamlit interface.</li>
+      <li>Interactive and user-friendly Streamlit interface.</li>
       <li>Machine learning model trained on medical data for heart disease prediction.</li>
       <li>Easy environment setup using the <code>environment.yaml</code> file for reproducibility.</li>
     </ul>
